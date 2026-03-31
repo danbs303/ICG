@@ -1,4 +1,5 @@
-Introdução à Computação Gráfica
+# Introdução à Computação Gráfica
 
-Repositório da disciplina Introdução à Computação Gráfica
-Semestre: 2026.1
+-> Repositório da disciplina Introdução à Computação Gráfica
+
+**Semestre**: 2026.1
